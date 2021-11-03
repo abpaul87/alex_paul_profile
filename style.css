@@ -3,10 +3,10 @@
 
 
 body {
-  background-color:ghostwhite;
+  background-color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400; /* if you want the light version */
-  color: darkslategrey;
+  color: #149414;
   font-size: 14px;
   line-height: 1.5em;
   /* width: 80%;
@@ -15,7 +15,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-  color: #4D5359;
+  color: #649568;
   font-weight: 600; /* if you want the light version */
 }
 
@@ -32,7 +32,7 @@ h3 {
 }
 
 a {
-  color: #4D5359;
+  color: #9ccc9c;
   text-decoration: none;
 }
 
